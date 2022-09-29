@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "My app",
+    "slug": "my-app",
+    "extra": {
+      "eas": {
+        "projectId": "7f894221-b244-47ce-bcf6-c871427f16c7"
+      }
+    },
+    "android": {
+      "package": "com.matt0808.myapp"
+    }
+  }
+}
